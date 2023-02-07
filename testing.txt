@@ -5,3 +5,5 @@ The git remote add command takes two arguments:
 A unique remote name, for example, “my_awesome_new_remote_repo”
 
 A remote URL, which you can find on the Source sub-tab of your Git 
+   example for testing
+
