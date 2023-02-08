@@ -2,3 +2,4 @@ Scrum Terminologies
 Scrum Principles 
 Scrum Ceremonies
 Scrum People
+Sdrum Scrum SCrum
